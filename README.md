@@ -14,7 +14,7 @@ $ cd src
 $ javac JSnake.java
 $ java JSnake
 ```
-You can start playing the game after those commands are run.
+You can start playing the game after those commands have been run.
 
 **If you run into any issues (or want a better playing experience), consider
 using a Java IDE like BlueJ.**
